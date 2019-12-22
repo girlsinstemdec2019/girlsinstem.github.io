@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+    background-color: lightskyblue;
+}
+.box {
+    background-color: rgb(80, 191, 255);
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+}
+.content {
+    
+    display: inline-block;
+    height: 200px;
+    width: 49%;
+    font-size: xx-large;
+}
+.playerImg{
+
+    background-image: url("../images/kohli.jpg");
+    height: 600px;
+    width: 49%;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    vertical-align: top;
+}
+.rscontent{ 
+    display: inline-block;
+    height:  200px;
+    width: 49%;
+    font-size: xx-large;
+
+}
+.rsimg{
+
+    background-image: url("../images/sharma.jpg");
+    height: 400px;
+    width: 49%;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    vertical-align: top;
+}
+.Msd{
+    display: inline-block;
+    height:  200px;
+    width: 49%;
+    font-size: xx-large;
+}
+.msdimg{
+    background-image: url("../images/mahi.jpg");
+    height: 400px;
+    width: 49%;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    vertical-align: top;
+}
+.hp{
+    display: inline-block;
+    height:  200px;
+    width: 49%;
+    font-size: xx-large;
+}
+.hpimg{
+    background-image: url("../images/hp.jpg");
+    height: 400px;
+    width: 49%;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    vertical-align: top;
+
+}
+.jb{
+    display: inline-block;
+    height:  200px;
+    width: 49%;  
+    font-size: xx-large;
+}
+.jbimg{
+    background-image: url("../images/jb.jpg");
+    height: 400px;
+    width: 49%;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    vertical-align: top;
+
+}
+.rj{
+    display: inline-block;
+    height:  200px;
+    width: 49%;  
+    font-size: xx-large;
+}
+.rjimg{
+    background-image: url("../images/rj.jpg");
+    height: 400px;
+    width: 49%;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    vertical-align: top;
+}
+
+.playerNames{
+    font-size: 30px;
+}
+
+.backBtn{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #000;
+    color: #fff;
+    margin-bottom: 10px;
+}
