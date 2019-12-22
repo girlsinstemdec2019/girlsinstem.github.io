@@ -1,0 +1,61 @@
+body{
+    background:rgba(93, 179, 245, 0.8);
+}
+h2{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.videoLink{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+.videoLink video{
+    margin:auto;
+}
+
+.achievements div{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.textcolor{
+    color:brown;
+    font-size: 30px!important;
+    font-weight: bold;
+}
+.textColor{
+    color: blueviolet;
+}
+.textColor{
+    color: blueviolet;
+}
+.textColor{
+    color: blueviolet;
+}
+.textColor{
+    color: blueviolet;
+}
+.textColor{
+    color: blueviolet;
+}
+.textColor{
+    color: blueviolet;
+}
+.textColor{
+    color: blueviolet;
+}
+.textColor{
+    color: blueviolet;
+}
+
+
+
+
+.backBtn{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #000;
+    color: #fff;
+    margin-bottom: 10px;
+}
