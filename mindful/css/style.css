@@ -1,0 +1,66 @@
+body{
+    /* background-color: peachpuff; */
+    background-image:url('../images/brain.jpeg');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.purpose{
+    font-size: 30px;
+    color: #000;
+    padding: 20px;
+    margin:20px;
+   
+}
+.health{
+    font-size: 30px;
+    color: #000;
+    padding: 20px;
+    margin:25px;
+    
+    
+
+}
+
+.list{
+    width: 100%;
+    height: 100%;
+    font-size 30px;
+    color:black;
+    padding:25px;
+    margin:25px;
+    
+}
+
+.list ul{
+    font-size: 30px;
+}
+.list ul.listitem li{
+    font-size: 30px;
+
+}
+h1{
+    text-align: center;
+    background-color: violet ;
+    color:black
+}
+
+.cause{
+    width: 100px;
+    height:100px;
+    font-size: 24px;
+    color:black;
+    margin:25px;
+    padding:30px;
+    
+}
+.name{
+    width:100%;
+    padding:30px;
+    height:50px;
+    color:black;
+    margin:25px;
+   
+    font-size: 30px;
+}
+    
+

@@ -1,0 +1,41 @@
+
+body{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+    background-image: url('../fomo.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.fomo{
+  
+    font-size: 50px;
+    color: #ff5c33;
+    width: 100%;
+    
+    text-align: center;
+
+}
+.information{
+    font-size:20px;
+    color:#2b1e3f;
+    width: 50%;
+   
+    text-align: left;
+
+}
+.info{
+    font-size:30px;
+    color: #ffcc00;
+    width: 50%;
+   
+    text-align: left;   
+}
+.research{
+ font-size:20px;
+    color:#140033;
+    width: 50%;
+  
+    text-align: left;
+}
