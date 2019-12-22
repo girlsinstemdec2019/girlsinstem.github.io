@@ -1,0 +1,14 @@
+body{
+    border: 9px black solid;
+}
+
+.donutList{
+    width: 40%;
+    margin: auto;
+}
+.donutList li{
+    text-align: left;
+}
+.donutList li a{
+    text-align: left;
+}

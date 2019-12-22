@@ -1,0 +1,18 @@
+
+
+.title{
+	font-size: 30px;
+	font-family: arial;
+	text-align: center;
+}
+
+.subtitle{
+	font-size: 20px;
+	
+	height: 30%;
+	width:  30%;
+}
+
+.subtitle.image{
+	font-size: 80px ;
+	
